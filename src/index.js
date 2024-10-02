@@ -1,3 +1,9 @@
+/**Desarrollado por
+    Edwin Geovani Pérez Martínez
+    Fecha de modificacion 02 de octubre de 2024*/
+
+    /*Bajo la instrucion del ing.Jhonathan Josué García Cuque*/
+    
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
